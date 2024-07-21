@@ -1,0 +1,13 @@
+.app{
+    width: 100vw;
+    background: #bebebe;
+}
+
+.content{
+    width: 60%;
+    height: 800px;
+    background: #ffffff;
+    margin: auto;
+    padding: 18px;
+    overflow: hidden;
+}

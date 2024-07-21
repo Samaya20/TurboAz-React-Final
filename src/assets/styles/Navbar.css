@@ -1,0 +1,74 @@
+.navbar {
+    background: #CA1016;
+}
+
+.navbar-container {
+    display: flex;
+    width: 60%;
+    margin: auto;
+    padding: 18px;
+    justify-content: start;
+    gap: 20px;
+    align-items: center;
+}
+
+.navbar-container ul {
+    display: flex;
+    gap: 25px;
+    /* background: green; */
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+.navbar-container ul li .nav-link {
+    color: white;
+}
+
+.navbar-container ul li .nav-link.active {
+    color: #82fa82;
+}
+
+.navbar-container h1 {
+    font-size: 20px;
+    text-transform: uppercase;
+    text-align: center;
+    color: white;
+}
+
+.navbar-container button {
+    /* font-size: 13px; */
+    width: 20%;
+    padding: 10px 0;
+    background: #16b916;
+    border: none;
+    border-radius: 7px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+}
+
+.navbar-container button svg {
+    color: white;
+}
+
+.navbar-container button:disabled,
+button[disabled] {
+    background: rgb(158, 158, 158);
+    color: rgb(190, 189, 189);
+    opacity: 0.7;
+}
+
+.navbar-container button:disabled svg,
+button[disabled] svg {
+    color: rgb(190, 189, 189);
+}
+
+.new-advert-btn a {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    color: white;
+}

@@ -1,0 +1,75 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "make": "Toyota",
+      "model": "Corolla",
+      "year": 2024,
+      "color": "White",
+      "price": 20000,
+      "images": [
+        "https://turbo.azstatic.com/uploads/f660x496/2024%2F07%2F06%2F14%2F33%2F25%2F4aca3a47-1001-4e8e-ad8f-7b46dba98bff%2F12183_ogtQftp0VNM0b8HrfrDIcQ.jpg",
+        "https://turbo.azstatic.com/uploads/f660x496/2024%2F07%2F06%2F14%2F35%2F05%2F8ba58ac5-6d49-4bbe-adfd-f194b170e366%2F64677_XEKjwmAveF1J7d42VxCbsw.jpg"
+      ]
+    },
+    {
+      "id": 2,
+      "make": "Honda",
+      "model": "Civic",
+      "year": 2017,
+      "color": "Gray",
+      "price": 22000,
+      "images": [
+        "https://turbo.azstatic.com/uploads/f660x496/2024%2F07%2F16%2F20%2F26%2F31%2Fde80b097-0dce-4e7b-9bf2-7c1431ab6b02%2F73879_Llsf7HE7T9ZVmMOurKtMGQ.jpg",
+        "https://turbo.azstatic.com/uploads/f660x496/2024%2F07%2F16%2F20%2F26%2F31%2Fb46c91da-a518-4b2b-b006-9ad293134550%2F73879_Llsf7HE7T9ZVmMOurKtMGQ.jpg"
+      ]
+    },
+    {
+      "id": 3,
+      "make": "Ford",
+      "model": "Mustang",
+      "year": 2018,
+      "color": "Yellow",
+      "price": 30000,
+      "images": [
+        "https://turbo.azstatic.com/uploads/f660x496/2024%2F07%2F13%2F12%2F41%2F16%2F8da95026-ce68-44e7-bebe-a445ed580d36%2F73879_Llsf7HE7T9ZVmMOurKtMGQ.jpg",
+        "https://turbo.azstatic.com/uploads/f660x496/2024%2F07%2F13%2F12%2F41%2F17%2F9b8f6d20-2dc2-4525-94f4-4fdc0feec282%2F73879_Llsf7HE7T9ZVmMOurKtMGQ.jpg"
+      ]
+    },
+    {
+      "id": 4,
+      "make": "Chevrolet",
+      "model": "Camaro",
+      "year": 2010,
+      "color": "Black",
+      "price": 25000,
+      "images": [
+        "https://turbo.azstatic.com/uploads/f660x496/2024%2F05%2F10%2F22%2F30%2F23%2Ff9a37a69-c94c-443e-8830-e4756fa953b7%2F64677_XEKjwmAveF1J7d42VxCbsw.jpg",
+        "https://turbo.azstatic.com/uploads/f660x496/2024%2F05%2F10%2F22%2F30%2F24%2F8735bf44-c42c-4e34-bdca-48de863664d9%2F64677_XEKjwmAveF1J7d42VxCbsw.jpg"
+      ]
+    },
+    {
+      "id": 5,
+      "make": "Tesla",
+      "model": "Model 3",
+      "year": 2021,
+      "color": "Gray",
+      "price": 35000,
+      "images": [
+        "https://turbo.azstatic.com/uploads/f660x496/2024%2F07%2F01%2F19%2F39%2F04%2F4577f653-e8a1-4c09-95f5-2f411649ac7c%2F73879_Llsf7HE7T9ZVmMOurKtMGQ.jpg",
+        "https://turbo.azstatic.com/uploads/f660x496/2024%2F07%2F01%2F19%2F39%2F14%2Fba58a006-75be-4044-92d0-15a35a23dd6c%2F64677_XEKjwmAveF1J7d42VxCbsw.jpg"
+      ]
+    },
+    {
+      "make": "Mercedes",
+      "model": "e200",
+      "year": "2020",
+      "color": "black",
+      "price": "20000",
+      "images": [
+        "https://imgd-ct.aeplcdn.com/664x415/n/cw/ec/178537/c-class-right-side-view.jpeg?isig=0&q=80"
+      ],
+      "id": 1721533483791
+    }
+  ]
+}

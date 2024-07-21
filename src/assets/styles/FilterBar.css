@@ -1,0 +1,39 @@
+.filter-bar {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    width: 100%;
+    gap: 20px;
+    align-items: end;
+}
+
+.filter-label {
+    display: flex;
+    flex-direction: column;
+    width: 250px;
+    gap: 5px;
+}
+
+.filter-label input{
+    border: 1px solid #ca10166f;
+    padding: 8px;
+    border-radius: 7px;
+}
+
+.filter-bar button{
+    width: 250px;
+    background: #CA1016;
+    border: none;
+    border-radius: 7px;
+    color: white;
+    padding: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.filter-bar .resetBtn{
+    background: transparent;
+    border: 1px solid #CA1016;
+    color: #CA1016;
+    gap: 5px;
+}
